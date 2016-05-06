@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server",
+    "start": "webpack-dev-server --content-base ./ --port 9966 --hot",
     "production": "webpack -p"
   },
   "author": "John Hilts <johnhilts@live.com>",

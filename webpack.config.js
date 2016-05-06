@@ -8,10 +8,12 @@ var HTMLWebpackPluginConfig = new HtmlWebpackPlugin({
 
 module.exports = {
 	entry: [
+		'webpack/hot/dev-server',
 		'./app/index.js'
 	],
 	output: {
 		path: __dirname + '/dist',
+		publicPath: '/dist/',
 		filename: "index_bundle.js"
 	},
 	module: {
