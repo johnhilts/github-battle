@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server --progress --colors --inline --content-base ./",
+    "start": "webpack-dev-server",
     "production": "webpack -p"
   },
   "author": "John Hilts <johnhilts@live.com>",
