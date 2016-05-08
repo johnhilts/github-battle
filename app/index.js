@@ -1,5 +1,5 @@
 var USER_DATA = {
-	name: 'John Hilts',
+	name: 'Mister John Hilts',
 	username: 'johnhilts',
 	image: 'https://avatars0.githubusercontent.com/u/631407?v=3&s=400'
 }
