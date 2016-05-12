@@ -1,3 +1,3 @@
 cls
 call npm run production
-title production
+title build
