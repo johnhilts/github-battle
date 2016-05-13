@@ -8,7 +8,6 @@
   },
   "author": "John Hilts <johnhilts@live.com>",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "react": "^15.0.1",
     "react-dom": "^15.0.1",
@@ -21,5 +20,14 @@
     "html-webpack-plugin": "^2.16.0",
     "webpack": "^1.13.0",
     "webpack-dev-server": "^1.14.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnhilts/github-battle.git"
+  },
+  "bugs": {
+    "url": "https://github.com/johnhilts/github-battle/issues"
+  },
+  "homepage": "https://github.com/johnhilts/github-battle#readme",
+  "description": ""
 }
