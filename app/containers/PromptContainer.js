@@ -2,6 +2,11 @@ var React = require('react');
 var transparentBg = require('../styles').transparentBg;
 
 var PromptContainer = React.createClass({
+	getInitialState: function() {
+		return {
+			username: ''
+		}
+	},
 	render: function() {
 		console.log(this);
 		return (
